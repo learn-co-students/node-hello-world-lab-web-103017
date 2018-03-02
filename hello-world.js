@@ -1,4 +1,4 @@
-var helloWorld = function helloWorld(){
+var hello = function(){
   return "Hello World";
 }
-module.exports = helloWorld;
+module.exports = hello;
